@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #e0dfdf;
+}
+
+#foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    position: relative;
+    top: -100px;
+    box-shadow: 0px -1px 7px 1px rgba(0, 0, 0, 0.2);
+}
+
+#container{
+    background-color: #fefefe;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    padding-bottom: 30px;
+    box-shadow: 1px 1px 7px 1px rgba(0, 0, 0, 0.2);
+    border-top-left-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
+
+#nama{
+    text-align: center;
+    margin-top: -70px;
+}
+
+#sub-nama{
+    text-align: center;
+    color: #ffa600;
+}
+
+table{
+    width: 60%;
+    margin-left: 25%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.judul-table{
+    width: 40%;
+}
+
+.titik-dua{
+    width: 10%;
+}
+
+.isi-table{
+    width: 50%;
+}
+
+#social-media{
+    text-align: center;
+    color: #ffb326;
+}
